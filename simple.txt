@@ -7,3 +7,10 @@ policy boy hog love
 user eligibility -category
 userelgibilty 
 user reports
+date 
+time
+month
+place
+city
+village
+postal
