@@ -3,3 +3,7 @@ m simple
 sure
 commit sure clam
 policy boy hog love
+
+user eligibility -category
+userelgibilty 
+user reports
