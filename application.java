@@ -8,4 +8,9 @@ public class Main {
   }
 }
 
+jav i m 
+amam 
+the ehich
+ana dthe qw ar athe ame
+
 // Outputs "I just got executed!"
